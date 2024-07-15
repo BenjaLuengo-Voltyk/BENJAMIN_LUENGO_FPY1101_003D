@@ -2,6 +2,8 @@ import random
 import os
 import statistics
 
+# https://github.com/BenjaLuengo-Voltyk/BENJAMIN_LUENGO_FPY1101_003D
+
 trabajadores = ["Juan Perez", "María García", "Carlos López", "Ana Martínez", "Pedro Rodríguez", "Laura Hernandez", "Miguel Sánchez", "Isabel Gómez", "Francisco Díaz", "Elena Fernández"]
 
 def menu():
